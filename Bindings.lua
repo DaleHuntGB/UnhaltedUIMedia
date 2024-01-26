@@ -1,0 +1,3 @@
+local GlobalAddonName, UHUI = ...
+BINDING_HEADER_UHUI = "|cFF00ADB5UnhaltedUI|r"
+BINDING_NAME_UHUIHIDEBARS = "Hide ActionBars [OOC]"

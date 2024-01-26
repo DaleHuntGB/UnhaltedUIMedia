@@ -1,0 +1,14 @@
+## Interface: 100205
+
+## Title: |cff00ADB5UnhaltedUI:|r Media
+## Version: 1.0
+## Author: Unhalted
+## DefaultState: Enable
+## IconAtlas: mechagon-projects
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0.lua
+
+UnhaltedUIMedia.lua
+Bindings.lua
