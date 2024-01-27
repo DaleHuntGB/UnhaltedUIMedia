@@ -11,4 +11,3 @@ Libs\CallbackHandler-1.0.lua
 Libs\LibSharedMedia-3.0.lua
 
 UnhaltedUIMedia.lua
-Bindings.lua
